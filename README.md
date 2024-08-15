@@ -1,1 +1,1 @@
-# conditional-job-execution
+# GitHub Actions — Conditional Job Execution
